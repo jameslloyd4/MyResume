@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: medium;
+    font-display: rgb(52, 50, 50);
+    background-color: antiquewhite;
+    position: relative;
+}
+head { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: larger;
+    font-display: black;
+    background-color: antiquewhite;
+    position: relative;
+}
+a {
+    font-style: italic;
+    color: rgb(228, 31, 5);
+}
+a:hover {
+    font-weight: bold;
+    font-size: 20px;
+}
+li {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
